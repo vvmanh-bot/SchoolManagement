@@ -8,7 +8,7 @@ public class BadSchoolProgram {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Danh sách dữ liệu: lưu sinh viên, giáo viên, môn học, đăng ký, điểm...
+        // Danh sách dữ liệu: lưu sinh viên, giáo viên, môn học, đăng ký, điểm....
         ArrayList<String> students = new ArrayList<String>();
         ArrayList<String> teachers = new ArrayList<String>();
         ArrayList<String> courses = new ArrayList<String>();
